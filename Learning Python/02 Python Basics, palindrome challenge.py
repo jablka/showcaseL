@@ -1,6 +1,6 @@
 # playing with the challenge 
 # in chapter 2. Python Basics
-# in course Learning Python by Joe Marini https://www.linkedin.com/learning/learning-python-14393370/
+# in the course Learning Python by Joe Marini https://www.linkedin.com/learning/learning-python-14393370/
 #
 
 running = True

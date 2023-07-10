@@ -1,6 +1,6 @@
 # playing with the challenge 
 # in chapter 4. Dates and Times
-# in course Learning Python by Joe Marini https://www.linkedin.com/learning/learning-python-14393370/
+# in the course Learning Python by Joe Marini https://www.linkedin.com/learning/learning-python-14393370/
 #
 
 import calendar
