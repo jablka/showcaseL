@@ -1,1 +1,1 @@
-some of my notes, accomplished challenges, or little projects.
+learning notes, accomplished challenges, or little projects.
